@@ -1,4 +1,4 @@
-# TI-84-Plus-CE-T-Pong
+# TI84_Plus_CE_Pong
 Play Pong on your calculator!
 
 1. Go to https://education.ti.com/en/products/computer-software/ti-connect-ce-sw to download TI Connect CE, you need it to acces the files on your calculator
